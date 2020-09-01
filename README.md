@@ -18,3 +18,8 @@ During my freetime I up kept my journal of playlists I've been keeping for aroun
 
 This summer I had an internship lined up with the Chicago fast food chain Portillos, however that was cancelled by COVID-19.
 I instead spent the summer working at a local pizza place and playing guitar hero.
+
+# James Shallcross
+
+This summer, I worked on personal projects while trying to get school sorted out for the year and looked for internships. 
+COVID-19 definitely made the summer less fun. Had a few summer classes I had to take also that went pretty well.
