@@ -6,4 +6,20 @@ I spent time with family. I spent most of my free time playing video games with 
 # Eli Sokeland
 
 This summer I interned at DeveloperTown doing Xamarin and React development. When I wasn't working, I spent
-my time walking the Indianapolis canal and playing Fall Guys.
+my time walking the Indianapolis canal, trying new foods, and playing Fall Guys.
+
+# Nathan Malitz
+
+This summer I got certified as a cloud practitioner for AWS as part of an internship.
+I was also a student in CS410 (Web Programming), which went pretty smoothly in my opinion.
+During my freetime I up kept my journal of playlists I've been keeping for around three years now.
+
+# Nick D'Agostino
+
+This summer I had an internship lined up with the Chicago fast food chain Portillos, however that was cancelled by COVID-19.
+I instead spent the summer working at a local pizza place and playing guitar hero.
+
+# James Shallcross
+
+This summer, I worked on personal projects while trying to get school sorted out for the year and looked for internships. 
+COVID-19 definitely made the summer less fun. Had a few summer classes I had to take also that went pretty well.
